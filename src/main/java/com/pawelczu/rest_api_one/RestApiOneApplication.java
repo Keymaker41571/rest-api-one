@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RestApiOneApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(RestApiOneApplication.class, args);
 	}
-
 }
+
+/* updated from git to GitHub command work */
